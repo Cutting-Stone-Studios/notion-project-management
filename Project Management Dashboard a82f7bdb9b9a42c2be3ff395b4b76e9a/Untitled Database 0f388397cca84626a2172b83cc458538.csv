@@ -1,0 +1,7 @@
+﻿Code Name,Priority,Platforms,Target Start Date,Actual Start Date,Created,Target End Date,Actual End Date,Owners,Contributors,Project Manager,TTR,Status,PTTR Status
+Example Project,Medium,"Android, Linux, Mac OS, Windows, iOS","July 6, 2023","July 7, 2023","July 21, 2023 1:25 PM","July 12, 2023","July 14, 2023",ravagedshell,ravagedshell,ravagedshell,-9,Complete,Delivered
+Sample Project 2,High,,"July 18, 2023","July 19, 2023","July 21, 2023 1:25 PM","August 25, 2023",,ravagedshell,ravagedshell,ravagedshell,34,In progress,On Target
+Sample Project 3,Medium,,"July 20, 2023","July 21, 2023","July 21, 2023 1:25 PM","August 4, 2023",,ravagedshell,ravagedshell,ravagedshell,13,Not Started,On Target
+Sample Project 4,Low,,"July 20, 2023","July 21, 2023","July 21, 2023 1:25 PM","August 18, 2023",,ravagedshell,ravagedshell,ravagedshell,27,Not Started,On Target
+Sample Project 5,High,N/A,"July 20, 2023","July 21, 2023","July 21, 2023 1:25 PM","August 18, 2023",,ravagedshell,ravagedshell,ravagedshell,27,Not Started,On Target
+Summer Slow Jam 2023 - Narrative,High,"Linux, Mac OS, Windows","July 7, 2023","July 7, 2023","July 21, 2023 1:25 PM","July 25, 2023","July 25, 2023","John Smith, Tim Smith","ravagedshell, Tony Smith, Tim Smith, John Smith, Bill Smith, Jane Smith ",Tony Smith,3,In progress,On Target
